@@ -16,8 +16,11 @@ to be able to develop applications that make use of graphs with software tools.
 
 The content of the course mainly concerns: 1.Review of Graph Theory: Basic definitions, Properties of Graphs and Convergent Registers, Laplacian and the decomposition of eigenvalues, classification, coloring and segmentation of the vertex set of a graph, examples, etc.
 2.0. Foundations of Classical Graph Processing: representation of a discrete-time signal in graph form, signal sliding over a graph, from one-to-one representations to one-to-many 
+
 2.1. Fourier transform on graphs (GFT): from DFT to GFT and back to DFT as a special case, Graph Spectrum, the inverse transform (IGFT) 
+
 2.2. System definition in graphs: Linear Invariant to Slip Systems, Convolution, Graph-Z Transform, System Transfer Function, Filter Design and Signal Filtering in Graphs 
+
 3. Statistical Processing of Graphs: Basic Concepts of Stochastic Processes Definition of Stationarity based on Gaussianity Register and Laplacian, Definition of Stationary in the broad sense of Graphs based on Slip in Spectrum Space, Wiener Filters in Graphs, Periodogram, Moving Average, Auto-regression, Auto-regression and Moving Average Models 
 4. Sampling in node space. Sampling in the frequency space of the graph. Graph reconstruction. 
 5. Developing graphs from data. Approaches based on models of the physical world. Presentation of statistical approaches (Markov Random Fields, Bayesian networks). Models based on continuity constraints. 
